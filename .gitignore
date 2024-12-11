@@ -1,3 +1,5 @@
 Cargo.lock
 target
 wip
+
+./main.rs # no need to track this
