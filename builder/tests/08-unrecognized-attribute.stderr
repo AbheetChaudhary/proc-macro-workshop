@@ -1,4 +1,4 @@
-error: expected `builder(each = "...")`
+error: expected 'each'
   --> tests/08-unrecognized-attribute.rs:22:15
    |
 22 |     #[builder(eac = "arg")]
